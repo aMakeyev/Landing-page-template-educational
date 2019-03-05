@@ -8,9 +8,6 @@
       <PhpUnitSettings />
     </phpunit_settings>
   </component>
-  <component name="ProjectDictionaryState">
-    <dictionary name="admin" />
-  </component>
   <component name="VagrantProjectSettings">
     <option name="instanceFolder" value="" />
     <option name="provider" value="" />
